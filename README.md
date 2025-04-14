@@ -1,4 +1,4 @@
-#<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
 # Hello World!, I'm sazin, a full time student 👋🏼:
 👨🏼‍🎓 Studying Computer Science and Engineering at IUBAT— International University of Business Agriculture and Technology<br>👨🏼‍💻 Practicing cTF and problem solvin.<br>
