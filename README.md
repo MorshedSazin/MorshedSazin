@@ -13,7 +13,7 @@
 
 # 🚀 Platforms & Competitions
 
-[![LeetCode](https://https://leetcode.com/u/Morshed-Sazin/)]
+(https://https://leetcode.com/u/Morshed-Sazin/)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 ![picoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)
