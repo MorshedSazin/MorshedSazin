@@ -13,9 +13,8 @@
 
 # 🚀 Platforms & Competitions
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Morshed-Sazin/)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)
-![picoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://leetcode.com/u/Morshed-Sazin/)
+![picoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)](https://leetcode.com/u/Morshed-Sazin/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorshedSazin/MorshedSazin/output/github-snake-dark.svg" />
