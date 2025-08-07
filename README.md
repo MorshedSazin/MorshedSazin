@@ -14,20 +14,14 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
 ## 🚀 Platforms & Competitions
 
-**Click to find out more:**
+**Click to find out more**
 
-<a href="https://leetcode.com/u/Morshed-Sazin/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://codeforces.com/profile/MorshedSazin" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-<a href="https://play.picoctf.org/users/morshed_sazin" target="_blank">
-  <img src="https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" alt="picoCTF" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Morshed-Sazin/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MorshedSazin)
+[![picoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)](https://play.picoctf.org/users/morshed_sazin)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorshedSazin/MorshedSazin/output/github-snake-dark.svg" />
