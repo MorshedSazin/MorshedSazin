@@ -11,8 +11,8 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-# 🚀 Platforms & Competitions
-click icons to find more...
+# 🚀 Platforms & Competitions click to find more...
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Morshed-Sazin/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MorshedSazin)
 [![picoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)](https://play.picoctf.org/users/morshed_sazin)
