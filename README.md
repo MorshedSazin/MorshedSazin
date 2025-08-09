@@ -4,6 +4,8 @@
 
 👨🏼‍🎓 Studying **Computer Science and Engineering** at IUBAT — International University of Business Agriculture and Technology<br>
 👨🏼‍💻 Practicing **CTF** challenges and **problem solving**.<br>
+support me 👉🏼binarywear.shop
+<br>
 
 ## 💻 Tech Stack
 
