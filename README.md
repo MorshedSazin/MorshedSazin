@@ -24,6 +24,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Morshed-Sazin/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MorshedSazin)
 [![picoCTF](https://img.shields.io/badge/picoCTF-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)](https://play.picoctf.org/users/morshed_sazin)
+<!--
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorshedSazin/MorshedSazin/output/github-snake-dark.svg" />
@@ -31,3 +32,15 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/MorshedSazin/MorshedSazin/output/github-snake.svg" />
 </picture>
 
+-->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="{YOUR IMAGE URL}/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="{YOUR IMAGE URL}/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="{YOUR IMAGE URL}/images/breakout-light.svg" />
+</picture>
